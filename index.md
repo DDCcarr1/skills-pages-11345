@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: DDCcarr1's Site
 ---
-
+Some random games and projects.
